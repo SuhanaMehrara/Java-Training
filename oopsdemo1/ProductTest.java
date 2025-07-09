@@ -10,7 +10,6 @@ package oopsdemo1;
 public class ProductTest {
 
 	public static void main(String[] args) {
-		int total;
 		Product p1=new Product(); // invoke default constructor 
 		Product p2=new Product();
 		
